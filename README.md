@@ -1,5 +1,3 @@
-# parkingsystem
-<!DOCTYPE html>
 <html>
 <head>
 <title>Smart Parking System</title>
